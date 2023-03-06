@@ -1,0 +1,14 @@
+{
+  "name": "ElectronAppExample",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/abhishektanwer2/ElectronAppExample.git",
+  "author": "Abhishek Tanwer <abhishektanwer2@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^23.1.2"
+  }
+}
